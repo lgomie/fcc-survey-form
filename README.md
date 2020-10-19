@@ -1,5 +1,7 @@
 # Survey Form Page
 
+Site developed for the freeCodeCamp Responsive Web Design Certification challenge.
+
 ### User Stories
 
 User Story #1: I can see a title with id="title" in H1 sized text.
